@@ -17,5 +17,5 @@ There are several hyperparameters which can be turned during training, such as c
 ## Run the program at the background
 ```shell
 nohup python deeppolyA_v1.py > log.txt 2>&1 &
-'''
+
 
